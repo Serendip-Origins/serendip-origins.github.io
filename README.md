@@ -1,4 +1,3 @@
-# serendiporigins.github.io
 # Serendip Origins
 
 Welcome to the official website of **Serendip Origins**. Our mission is to drive positive change through creative projects and awareness campaigns.
